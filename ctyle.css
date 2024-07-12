@@ -1,0 +1,388 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.container {
+    width: 1224px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+header {
+    margin-top: 26px;
+
+}
+
+.text-header {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+
+.nav-header {
+    margin-top: 12px;
+    gap: 40px;
+    color: black;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.text-header1 {
+    color: orangered;
+    font-family: 'Poppins', sans-serif;
+}
+
+.chevron-down {
+    margin-top: 5px;
+}
+
+.btn-wrap {
+    gap: 41px;
+    margin-left: 193px;
+}
+
+.login {
+    margin-top: 12px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF8C;
+    margin-top: -15px;
+}
+
+.btn {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 28px;
+}
+
+.banner-header {
+    background-color: #FF6E30;
+    color: #FDF5FF;
+    border: 1px solid #FF6E30;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+/* ----------------------------------------section1--------------------------------------- */
+
+
+.bcim {
+    margin-top: 50px;
+}
+
+.sec1_wrap h3 {
+    font-size: 24px;
+    margin-left: 620px;
+    margin-top: -530px;
+    color: white;
+}
+
+.sec1_wrap h1 {
+    color: white;
+    font-size: 58px;
+    width: 799px;
+    height: 151px;
+    font-weight: 700;
+    line-height: 80px;
+    align-items: center;
+    margin-left: 360px;
+}
+
+.sec1_wrap h4 {
+    width: 368px;
+    height: 19px;
+    margin-left: 590px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 38px;
+    align-items: center;
+    color: white;
+}
+.btn-wrap {
+    gap: 41px;
+    margin-left: 450px;
+    margin-top: 70px;
+    
+}
+
+.login {
+    margin-top: 12px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #f9f9fd;
+    border: solid white;
+    width: 236px;
+    height: 68px;
+    border-radius: 30px;
+    padding: 16px, 0px, 16px, 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.btn {
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 28px;
+    
+}
+
+.banner-header {
+    background-color: #FF6E30;
+    color: #FDF5FF;
+    border: 1px solid #FF6E30;
+    border-radius: 30px;
+    width: 236px;
+    height: 68px;
+}
+.banner-header a{
+    font-size: 24px;
+    font-weight: 700;
+}
+.login {
+margin-left: 24px;
+}
+/* -----------------------------------section2------------------------------------------- */
+.sec2_wrap{
+    margin-top: 240px;
+    margin-left: 500px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 36px;
+}
+.sec2_wrap img{
+margin-top: 106px;
+margin-left: -360px;
+
+}
+.sec2_wrap h3{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    margin-left: 170px;
+    margin-top: -400px;
+    width: 232px;
+    height: 36px;
+    color: orangered;
+
+    
+}
+.sec2_wrap .h22{
+    width: 561px;
+    height: 114px;
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    margin-left: 170px;
+}
+.sec2_wrap h4{
+   width: 467px; 
+   height: 76px;
+   font-weight: 500;
+   font-size: 24px;
+   line-height: 38px;
+   color: #737373;
+   margin-left: 170px;
+}
+/* ------------------------------------section3---------------------------------------- */
+
+.sec3_wrap .h33{
+    margin-top: 340px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    width: 232px;
+    height: 36px;
+    color: orangered;
+    margin-left: 175px;
+
+    
+}
+.sec3_wrap .h21{
+    width: 561px;
+    height: 114px;
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    margin-left: 175px;
+}
+.sec3_wrap .h44{
+   width: 467px; 
+   height: 76px;
+   font-weight: 500;
+   font-size: 24px;
+   line-height: 38px;
+   color: #737373;
+   margin-left: 175px;
+   
+   
+}
+.sec3_wrap img{
+    margin-left: 993px;
+    margin-top: -350px;
+}
+/* -----------------------------------section4----------------------------------- */
+.sec4{
+    width: 1440px;
+    height: 516px;
+}
+.sec4_wrap img{
+    margin-top: 200px;
+}
+.sec4_wrap h2{
+    width: 235px;
+    height: 57px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    align-items: center;
+    margin-left: 602px;
+    color: white;
+    margin-top: -351px;
+}
+.sec4_wrap h4{
+    width: 840px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    align-items: center;
+    margin-left: 300px;
+    color: white;
+}
+.btn-wrap2 {
+    gap: 41px;
+    margin-left: 450px;
+    margin-top: 70px;
+    
+}
+
+.login2 {
+    
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #f9f9fd;
+    border: solid white;
+    width: 190px;
+    height: 60px;
+    border-radius: 10px;
+    padding: 16px, 0px, 16px, 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: -30px;
+    margin-top: 3px;
+    
+    
+}
+
+.btn2 {
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 28px;
+    
+}
+
+.banner-sec4 {
+    background-color: #FF6E30;
+    color: #FDF5FF;
+    border: 1px solid #FF6E30;
+    border-radius: 10px;
+    width: 142px;
+    height: 64px;
+    margin-left: 5px;
+    margin-left: 90px;
+}
+/* ------------------------------------footer--------------------------------------------- */
+footer{
+    margin-top: 283px;
+    margin-left: 115px;
+    width: 1210px;
+    height: 133px;
+}
+footer p{
+    margin-left: 940px;
+    width: 390px;
+    height: 30px;
+    margin-top: -60px;
+    
+}
+@media (max-width: 750px){
+    header{
+       flex-direction: column;
+       align-items: flex-start;
+    }
+    nav li{
+       flex-direction: column;
+    }
+    h1{
+       font-size: 27px;
+     
+    }
+    
+    nav a{
+       font-size: 10px;
+    }
+    }
+    /*-----------------------------------------------адаптація для телефону----------------------------------- */
+    @media (max-width: 400px){
+       header{
+          padding: 10px;
+       }
+       nav li{
+          flex-direction: column;
+       }
+       h1{
+          font-size: 18px;
+          
+       }
+       nav a{
+          font-size: 14px;
+       }
+       section{
+           margin-bottom: 18px;
+           
+       }
+       main{
+           padding: 19px;
+       }
+       footer{
+           padding: 5px;
+       }
+       }
